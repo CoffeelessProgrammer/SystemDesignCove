@@ -1,6 +1,6 @@
 # \[Exercise] User Service
 
-**Objective:** Design a lean, extensible user service that can be used across various SaaS products in different industries.
+**Objective:** Design an industry-agnostic, lean, extensible user service that can be used in various SaaS products.
 
 ## Core User Schema
 ```mermaid
